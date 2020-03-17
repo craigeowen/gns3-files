@@ -2,7 +2,8 @@
 <?xml-stylesheet href="new-1.css" type="text/css" ?>
 <note>
   <to>Tove</to>
-  <from>Jani</from>
-  <heading>Reminder</heading>
-  <body>Don't forget me this weekend!</body>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body1>Don't forget me this weekend!</body1>
+    <newbody>line break</newbody>
 </note>

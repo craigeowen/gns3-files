@@ -1,7 +1,7 @@
-note {
+note, body1, from, heading {
   display: block; }
 
-to, from, heading, body {
+to, newbody {
   font-family: Garamond, 'Times New Roman', Georgia, serif;
   font-size:   12pt;
   color:       #0000FF; }
